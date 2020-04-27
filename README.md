@@ -19,4 +19,4 @@ Being able to accurately implement the Web Speech API, and then use the auditory
 How work with html, css and javascript to create a website, how to use and implement the Web Speech API
 
 ## What's next for Optimo:
-More accurate testing with more precise voice recognition software, as well as a mobile app version. Optimo may also be interested in entering a partnership with optometrist clinics to improve efficiency of their services and increase their clientele.
+More accurate testing with more precise voice recognition software, as well as a mobile app version. Optimo may also be interested in entering a partnership with optometrist clinics to improve the efficiency of their services and increase their clientele.
