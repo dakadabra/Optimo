@@ -1,4 +1,4 @@
-### Optimo
+# Optimo
 
 ## Inspiration:
 After being fed up with the inconvenience of going to the optometrist to test one's eyesight, we wanted a quicker and more convenient way to determine the precision and change of one's vision.
